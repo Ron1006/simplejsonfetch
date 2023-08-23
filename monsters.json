@@ -1,0 +1,27 @@
+[
+    {
+        "monster": "Godzilla",
+        "location": "Tokyo Japan",
+        "movies": "Godzilla Franchise"
+    },
+    {
+        "monster": "King Kong",
+        "location": "Skull Island",
+        "movies": "Various King Kong / Godzilla Movies"
+    },
+    {
+        "monster": "Jaws",
+        "location": "Amity Island",
+        "movies": "Jaws Franchise"
+    },
+    {
+        "monster": "Queen Xenomorph",
+        "location": "LV 426",
+        "movies": "Alien and AVP Movie Franchise"
+    },
+    {
+        "monster": "Mike Wizowski",
+        "location": "Monsters University",
+        "movies": "Pixar Monster Films"
+    }
+]
